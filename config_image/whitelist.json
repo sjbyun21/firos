@@ -1,0 +1,6 @@
+{
+	"image_publisher": {
+		"subscriber": ["image_raw"]
+	}
+
+}

@@ -1,0 +1,3 @@
+{
+    "/image_publisher/image_raw": ["sensor_msgs/Image", "subscriber"]
+}

@@ -1,0 +1,10 @@
+{
+    "rplidar":{
+        "topics":{
+            "scan":{
+                "msg": "sensor_msgs.msg.LaserScan",
+                "type": "subscriber"
+            }
+        }
+    }
+}

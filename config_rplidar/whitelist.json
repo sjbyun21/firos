@@ -1,0 +1,6 @@
+{
+	"rplidar": {
+		"subscriber": ["scan"]
+	}
+
+}

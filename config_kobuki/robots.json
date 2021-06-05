@@ -1,0 +1,14 @@
+{
+    "mobile_base":{
+        "topics":{
+            "commands/velocity":{
+                "msg": "geometry_msgs.msg.Twist",
+                "type": "publisher"
+            },
+            "sensors/imu_data":{
+                "msg": "sensor_msgs.msg.Imu",
+                "type": "subscriber"
+            }
+        }
+    }
+}

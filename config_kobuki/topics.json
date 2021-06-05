@@ -1,0 +1,4 @@
+{
+    "/mobile_base/commands/velocity": ["geometry_msgs/Twist", "publisher"],
+    "//mobile_base/sensors/imu_data": ["sensor_msgs/Imu", "subscriber"]
+}

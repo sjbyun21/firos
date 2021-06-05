@@ -1,0 +1,14 @@
+{
+    "mobile_base":{
+        "topics":{
+            "commands/velocity":{
+                "msg": "geometry_msgs.msg.Twist",
+                "type": "publisher"
+            },
+            "sensors/core":{
+                "msg": "kobuki_msgs.msg.SensorState",
+                "type": "subscriber"
+            }
+        }
+    }
+}

@@ -1,0 +1,7 @@
+{
+	"mobile_base": {
+		"publisher": ["velocity"],
+		"subscriber": ["imu_data"]
+	}
+
+}
